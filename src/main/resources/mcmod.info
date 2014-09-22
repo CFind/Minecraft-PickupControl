@@ -1,0 +1,17 @@
+[
+{
+  "modid": "pickupcontrol",
+  "name": "Pickup Control",
+  "description": "Control what goes into your inventory!",
+  "mcversion": "1.7.10",
+  "url": "",
+  "authors": [
+    "Chronothan"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "dependencies": [
+	"Forge"
+  ]
+}
+]
